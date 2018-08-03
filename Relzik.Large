@@ -1,5 +1,5 @@
 //META{"name":"Relzik_Large","description":"Relzik Large theme.","author":"Relzik","version":"7.7"}*//
-
+{}
 	/*Chat*/
 .chat .new-messages-bar {
     background-color: red; 
